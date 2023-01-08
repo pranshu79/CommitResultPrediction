@@ -12,7 +12,7 @@ We have multiple Problem Statements in this epoch out of which we have to chose 
 - Random Forest Classification
 - Hyperparameter Tuning
 
-## Libraries/Modules/Class imported
+## Libraries/Modules/Classes imported
 
 - Numpy
 - Pandas
